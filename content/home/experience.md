@@ -3,7 +3,7 @@
 widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 40  # Order that this section will appear.
+weight = 80  # Order that this section will appear.
 
 title = "Experience"
 subtitle = ""
@@ -18,27 +18,46 @@ date_format = "Jan 2006"
 #   Leave `date_end` empty if it's your current employer.
 #   Begin/end multi-line descriptions with 3 quotes `"""`.
 [[experience]]
-  title = "CEO"
-  company = "GenCoin"
-  company_url = ""
-  location = "California"
-  date_start = "2017-01-01"
-  date_end = ""
+  title = "Project Manager"
+  company = "HOD Innovation Labs"
+  company_url = "https://wellness.humainhealth.com/"
+  location = "India"
+  date_start = "2018-03-01"
+  date_end = "2019-02-01"
   description = """
   Responsibilities include:
   
-  * Analysing
-  * Modelling
-  * Deploying
+  * Data Analytics
+  * Team Management
+  * Client Relationship Management
+  * Operations Management
   """
 
 [[experience]]
-  title = "Professor"
-  company = "University X"
-  company_url = ""
-  location = "California"
-  date_start = "2016-01-01"
-  date_end = "2016-12-31"
-  description = """Taught electronic engineering and researched semiconductor physics."""
+  title = "Center Head"
+  company = "Cloudnine Group of Hospitals"
+  company_url = "https://www.cloudninecare.com/"
+  location = "India"
+  date_start = "2017-02-01"
+  date_end = "2018-03-01"
+  description = """Taught electronic engineering and researched semiconductor physics.
+  Responsibilities include:
+"""
 
+[[experience]]
+  title = "Key Account Manager"
+  company = "MedVerve Healthcare Analytics and Solutions Pvt Ltd"
+  company_url = "http://www.medverve.com/"
+  location = "India"
+  date_start = "2015-03-01"
+  date_end = "2016-12-01"
+  description = """Managed End-to-End Credit business operations of the client hospitals by analysing patient data and ensuring medical record compliance standards. 
+
+  Responsibilities include:
+  * Leadership
+  * Data Analytics
+  * Team Management 
+  * Revenue Cycle Management
+
+"""
 +++
