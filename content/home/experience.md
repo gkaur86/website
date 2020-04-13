@@ -24,13 +24,25 @@ date_format = "Jan 2006"
   location = "India"
   date_start = "2018-03-01"
   date_end = "2019-02-01"
-  description = """
+  description = """ Planned and Implemented project execution module by transforming corporate wellness with connected health and measurable engagement. 
+ 
   Responsibilities include:
   
   * Data Analytics
   * Team Management
   * Client Relationship Management
   * Operations Management
+
+
+
+  Clients:
+
+  * Infosys
+  * Accenture
+  * Wellsfargo
+  * FedEx
+
+
   """
 
 [[experience]]
@@ -40,8 +52,13 @@ date_format = "Jan 2006"
   location = "India"
   date_start = "2017-02-01"
   date_end = "2018-03-01"
-  description = """Taught electronic engineering and researched semiconductor physics.
+  description = """Planned and executed marketing programs based on market data analysis.
   Responsibilities include:
+  * Data Management
+  * Data Analysis
+  * People Management
+  * Customer Relationship Management
+  * Accounts Management
 """
 
 [[experience]]
